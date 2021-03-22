@@ -47,3 +47,114 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+.body2 {
+    background-color: black;
+}
+
+.background2 {
+    background-image: url(images/);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+}
+
+.planet1 {
+    margin-top: 1em;
+    text-align: center;
+    color: orange;
+    font-size: 40px;
+}
+
+.img-boom-cont {
+    align-items: center;
+    width: 100%;
+}
+
+.img-boom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.planet2 {
+    margin-top: 0.5em;
+    color: orange;
+    font-size: 50px;
+    text-align: center;
+}
+
+.img-box-cont {
+    align-items: center;
+    width: 100%;
+    display: flex;
+}
+
+.img-box {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body3 {
+    background-color: black;
+}
+
+.background-cowus {
+    background-image: url(images/314.gif);
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text1 {
+    margin-top: 1em;
+    text-align: center;
+    color: orange;
+}
+
+.title-3 {
+    font-size: 50px;
+}
+
+.color {
+    color: red;
+    font-size: 70px;
+}
+
+.img-boom-cont {
+    align-items: center;
+    width: 100%;
+}
+
+.body4 {
+    background-color: black;
+}
+
+.cont-pass {
+    align-items: center;
+    width: 100%;
+}
+
+.pass {
+    color: orange;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.img-pass {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.maths {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
